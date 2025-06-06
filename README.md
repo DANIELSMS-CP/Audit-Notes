@@ -1,2 +1,2 @@
 # Audit-Report
-Smart Contract Auditing Report
+Smart contract auditing report.
